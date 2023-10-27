@@ -1,0 +1,9 @@
+{
+	"singleQuote": true,
+	"quoteProps": "consistent",
+	"tabWidth": 2,
+	"arrowParens": "avoid",
+	"useTabs": true,
+	"printWidth": 5000,
+	"plugins": ["prettier-plugin-tailwindcss"]
+}
